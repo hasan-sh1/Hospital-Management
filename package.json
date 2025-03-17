@@ -10,12 +10,23 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.7.2",
+    "@icon/ionicons": "^5.4.0-alpha.0",
+    "@popperjs/core": "^2.11.8",
+    "@types/toastr": "^2.1.43",
+    "apexcharts": "^4.5.0",
     "bootstrap": "^5.3.3",
     "chart.js": "^4.4.8",
+    "ionicons": "^7.4.0",
+    "jquery": "^3.7.1",
+    "material-design-icons-iconfont": "^6.7.0",
     "next": "15.2.2",
+    "next-auth": "^4.24.11",
+    "perfect-scrollbar": "^1.5.6",
     "react": "^19.0.0",
+    "react-apexcharts": "^1.7.0",
     "react-dom": "^19.0.0",
-    "react-icons": "^5.5.0"
+    "react-icons": "^5.5.0",
+    "toastr": "^2.1.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

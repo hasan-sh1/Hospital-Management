@@ -1,3 +1,11 @@
+@import '/template/plugins/bootstrap/css/bootstrap.min.css';
+@import '/template/plugins/icons/icons.css';
+@import '/template/css/style.css';
+@import '/template/css/dark-theme.css';
+@import '/template/css/transparent-theme.css';
+@import '/template/css/skin-modes.css';
+@import '/template/css/sidemenu.css';
+@import '/template/css/animate.css';
 @import "tailwindcss";
 
 :root {
